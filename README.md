@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shika
 - 👀 I’m an alumni of Hanoi University of Science and Technology (56th)
-- 🌱 I am used to with Swift iOS, Reactjs and Laravel
+- 🌱 Experienced in Swift iOS, Reactjs and Laravel
 - 📫 Contact me: shikanoji@gmail.com
 
 <!---
